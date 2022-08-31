@@ -1,11 +1,11 @@
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
-
+Whenever I felt tired I have taken break. Nothing like regular intervals. Body stretching, watching my favorite tv programe etc. 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
-
+In Agile principles, timeboxing allocates a fixed and maximum unit of time to an activity, called a timebox, within which planned activity takes place. It is used by Agile principles-based project management approaches and for personal time management.
 ### On a a 0-5 scale, how confident are you with each of the assignments?
-
+I think 4
 ### What are of you proud of up to this point in the course?
-
+Learning github is great for me. Even though I am at begining, I am confident to progree further to commit, pull, push etc.
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
 
