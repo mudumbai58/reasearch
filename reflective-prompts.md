@@ -5,42 +5,42 @@ In Agile principles, timeboxing allocates a fixed and maximum unit of time to an
 ### On a a 0-5 scale, how confident are you with each of the assignments?
 I think 4
 ### What are of you proud of up to this point in the course?
-Learning github is great for me. Even though I am at begining, I am confident to progree further to commit, pull, push etc.
+Learning github is great for me. Even though I am at begining, I am confident to progress further to commit, pull, push etc.
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
 
 ### What is Python?
-
+Python is a high-level, general-purpose, interpreted programming language.
 ### Have you developed a habit of exploring?
-
+Yes
 ### Have you meditated before?
-
+Yes
 ### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
 
 ### Do you consider yourself a developer yet?
-
+No
 ### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
 
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
-
+Four, all are study related
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
 
 ### What is an IDE?
-
+An integrated development environment (IDE) is software for building applications that combines common developer tools into a single GUI.
 ### What did you learn out of the Marshmallow Challenge?
-
+Working as group, exchanging ideas etc
 ### Did you have any blocks during this challenge? How did you overcome them?
 
 ### So far, what was the hardest moment of this course for you?
 
 ### What is OOP?
-
+Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic.
 ### Are you using the canvas content? Do you find it helpful or tedious?
-
+Yes, it is helpful and tedious.
 ### Which parts of the work did you find tedious?
-
+Navigating to course and course materials, assignments etc 
 ### What is polymorphism?
 
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
